@@ -56,3 +56,20 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Jupyter notebook autosave snapshots
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE / editor settings (machine-specific, do not commit)
+.idea/
+.vscode/
+*.swp
+
+# OS cruft
+.DS_Store
+Thumbs.db
